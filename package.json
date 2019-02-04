@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "demo": "webpack-dev-server --config-register ts-node/register --open"
+    "webpack": "webpack --config-register ts-node/register",
+    "webpack-dev-server": "webpack-dev-server --config-register ts-node/register --open"
   },
   "devDependencies": {
     "@types/html-webpack-plugin": "3.2.0",

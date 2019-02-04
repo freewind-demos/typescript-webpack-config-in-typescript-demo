@@ -5,5 +5,6 @@ Use typescript to write webpack config file.
 
 ```
 npm install
-npm run demo
+npm run webpack
+npm run webpack-dev-server
 ```

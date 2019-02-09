@@ -1,5 +1,5 @@
 import {Configuration} from 'webpack';
-import HtmlWebpackPlugin = require("html-webpack-plugin");
+import HtmlWebpackPlugin from 'html-webpack-plugin';
 
 const config: Configuration = {
   mode: "development",
